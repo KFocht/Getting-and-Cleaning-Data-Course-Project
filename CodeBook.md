@@ -1,5 +1,4 @@
-tidyData CodeBook
----------------------------
+# tidyData CodeBook
 
 **Subject**  
 Subject number representing each volunteer 
